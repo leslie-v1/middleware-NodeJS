@@ -1,0 +1,11 @@
+{
+  "watch": [
+    "server.js",
+    "views",
+    "data",
+    "CSS",
+    "img"
+  ],
+  "ext": "js,json,html,css",
+  "ignore": ["node_modules/*"]
+}
